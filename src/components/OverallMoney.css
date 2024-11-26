@@ -1,0 +1,13 @@
+.expenses {
+    color: red;
+}
+
+.incomes {
+    color: rgb(55, 242, 55);
+}
+
+.overall_money_main {
+    background: rgb(71, 71, 71);
+    border-radius: 10px;
+    padding: 10px 0;
+}

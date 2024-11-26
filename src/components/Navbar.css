@@ -1,0 +1,27 @@
+header {
+    top: 0;
+    background: rgb(41, 41, 41);
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul,
+ul li {
+   margin: .5rem;
+   padding: 0;
+   text-indent: 0;
+   list-style-type: none;
+   color: inheret;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;  
+}
